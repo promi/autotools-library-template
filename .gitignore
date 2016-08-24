@@ -19,3 +19,5 @@ Makefile.in
 Makefile
 .anjuta/
 .anjuta_sym_db.db
+libfoo/foo-1.pc
+foo/foo
